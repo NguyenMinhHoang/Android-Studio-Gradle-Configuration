@@ -1,0 +1,61 @@
+{
+  "project_info": {
+    "project_number": "667760250989",
+    "project_id": "configuration-gradle-6913"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667760250989:android:c7750fefc726783b",
+        "android_client_info": {
+          "package_name": "opensources.android.configurationgradle.debug"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGjkgj5LH2N3JGXR4IuNeQFeVKKObo2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667760250989:android:be11b9ce30c856ae",
+        "android_client_info": {
+          "package_name": "opensources.android.configurationgradle.release"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeGjkgj5LH2N3JGXR4IuNeQFeVKKObo2M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
